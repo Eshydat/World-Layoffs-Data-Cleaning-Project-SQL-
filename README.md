@@ -26,4 +26,5 @@ The raw data included information on company names, locations, industries, total
 * **Database:** MySQL
 * **SQL Concepts:** CTEs, Joins, Window Functions, DDL/DML Commands
 
-  
+ ![image alt](https://github.com/Eshydat/World-Layoffs-Data-Cleaning-Project-SQL-/blob/011d912a5406085923373fbe70961294ca908890/A%20professional%2C%20minimalist%20GitHub%20repository%20header%20image.%20The%20background%20is%20a%20dark%20navy%20blue%20with%20subtle%203D%20glowing%20code%20snippets%20and%20database%20icons.%20In%20the%20center%2C%20there%20is%20bold%2C%20clean%203D%20text%20that%20says%20'SQL%20DATA%20.jpg)
+
