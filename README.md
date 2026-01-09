@@ -25,3 +25,5 @@ The raw data included information on company names, locations, industries, total
 ## Tools Used
 * **Database:** MySQL
 * **SQL Concepts:** CTEs, Joins, Window Functions, DDL/DML Commands
+
+  
