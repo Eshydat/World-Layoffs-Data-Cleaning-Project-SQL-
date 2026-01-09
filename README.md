@@ -1,7 +1,3 @@
-# World-Layoffs-Data-Cleaning-Project-SQL-
-This project involves a comprehensive data cleaning process using MySQL
-# World Layoffs Data Cleaning Project (SQL)
-
 ## Project Overview
 This project involves a comprehensive data cleaning process using MySQL. The goal was to take a raw dataset of global tech layoffs and transform it into a structured, reliable format for further analysis.
 
